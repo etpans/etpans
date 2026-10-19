@@ -1,17 +1,33 @@
+<div align="center">
+
 # Hey, I'm Evan 👋
 
-Computer Science student at the University of Toronto Mississauga.
-I like building useful things, playing volleyball, reading, and cows.
+**Computer Science student · University of Toronto Mississauga**
 
-I like playing volleyball and milking the high of the court. Off the court, I'm usually finding another project to sink my hooves into.
+Building useful things. Raising the steaks.
 
-I like building things that are high-steak. Or rather, things that get the job done for people, even when they're not fully calfinated. Software should do the heavy lifting so you don't have to hoof it.
+<img src="./assets/cow.gif" alt="A pixel-art cow jumping over the moon" width="480">
 
-Currently building Trove, a classroom notes app for web and mobile.
+[Portfolio](https://evantran.ca) &nbsp; · &nbsp; [What I'm building](#-currently-building) &nbsp; · &nbsp; [Off the court](#-off-the-court)
 
-Hopefully my next project doesn't turn into ammoonition for anything dangerous. Until then, I'll keep learning, raising the steaks, and keeping things moooving.
+</div>
 
-<img src="./assets/cow.gif" alt="A pixel-art cow jumping over the moon" width="320">
+---
 
-Projects, work, and some moooving elements:
-https://evantran.ca
+## 🛠️ Currently building
+
+**Trove** — a classroom notes app for web and mobile.
+
+I like making software that does the heavy lifting, so people don't have to hoof it. Trove is the project I'm currently sinking my hooves into.
+
+## 🏐 Off the court
+
+When I'm not building, I'm usually playing volleyball or reading. I like cows, too. You may have noticed.
+
+## 🌐 Around the web
+
+Find my projects, work, and a few more moooving elements at **[evantran.ca →](https://evantran.ca)**.
+
+---
+
+<p align="center"><em>Keep learning. Keep building. Keep things moooving.</em></p>
