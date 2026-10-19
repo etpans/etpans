@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Evan 👋
+# Hey, I'm Evan 👋 <sub>aka Pans</sub>
 
-**Computer Science student · University of Toronto Mississauga**
+**3<sup>rd</sup> year Computer Science student @ University of Toronto Mississauga**
 
 Building useful things and most importantly raising the steaks.
 
